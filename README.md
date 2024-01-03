@@ -5,11 +5,13 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/adriendinzey/Noodle-Restaurant-Mobile-App">
-    <img src="images/logo.jpg" alt="Logo" width="600" height="400">
+    <img src="images/logo.png" alt="Logo" width="500" height="500">
   </a>
 
 <h3 align="center">Noodle Shop App</h3>
@@ -43,9 +45,9 @@
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
 
-## About The Project
+
+<!-- ABOUT THE PROJECT -->
 
 ### Built With
 
@@ -81,25 +83,22 @@ Ensure you have an emulator or a way to run the app, an easy way is to follow th
    ```sh
    npm run android
    ```
-   
+
 ## Contact
 
 Adrien Dinzey - [Website](http://adriendinzey.github.io/)
 
 Project Link: [https://github.com/adriendinzey/Noodle-Restaurant-Mobile-App](https://github.com/adriendinzey/Noodle-Restaurant-Mobile-App)
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/adriendinzey/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/adriendinzey/Pokemon-Machine-Learning-Analysis.svg?style=for-the-badge
 [contributors-url]: https://github.com/adriendinzey/Noodle-Restaurant-Mobile-App/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/adriendinzey/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/adriendinzey/Pokemon-Machine-Learning-Analysis.svg?style=for-the-badge
 [forks-url]: https://github.com/adriendinzey/Noodle-Restaurant-Mobile-App/network/members
-[stars-shield]: https://img.shields.io/github/stars/adriendinzey/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/adriendinzey/Pokemon-Machine-Learning-Analysis.svg?style=for-the-badge
 [stars-url]: https://github.com/adriendinzey/Noodle-Restaurant-Mobile-App/stargazers
-[issues-shield]: https://img.shields.io/github/issues/adriendinzey/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/adriendinzey/Pokemon-Machine-Learning-Analysis.svg?style=for-the-badge
 [issues-url]: https://github.com/adriendinzey/Noodle-Restaurant-Mobile-App/issues
-[license-shield]: https://img.shields.io/github/license/adriendinzey/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/adriendinzey/Pokemon-Machine-Learning-Analysis.svg?style=for-the-badge
 [license-url]: https://github.com/adriendinzey/Noodle-Restaurant-Mobile-App/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/adriendinzey
