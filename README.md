@@ -48,7 +48,8 @@
 
 
 <!-- ABOUT THE PROJECT -->
-
+## About The Project
+This project is an android app built using React Native that allows users (customers for a Noodle Restaurant) to design their own meal based on the broad variety of noodle-based options.
 ### Built With
 
 - React Native
