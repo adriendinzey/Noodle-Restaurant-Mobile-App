@@ -12,19 +12,13 @@
     <img src="images/logo.jpg" alt="Logo" width="600" height="400">
   </a>
 
-  <h3 align="center">project_title</h3>
+<h3 align="center">Noodle Shop App</h3>
 
   <p align="center">
-    project_description
+    Order your very own custom bowl of noodles at this noodle restaurant using this Android application!
     <br />
-    <a href="https://github.com/adriendinzey/Noodle-Restaurant-Mobile-App"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/adriendinzey/Noodle-Restaurant-Mobile-App"><strong>View Demo Video</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/adriendinzey/Noodle-Restaurant-Mobile-App">View Demo</a>
-    ·
-    <a href="https://github.com/adriendinzey/Noodle-Restaurant-Mobile-App/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/adriendinzey/Noodle-Restaurant-Mobile-App/issues">Request Feature</a>
   </p>
 </p>
 
@@ -45,7 +39,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -59,6 +52,7 @@
 - React Native
 - TypeScript
 - JavaScript
+- Android Studio
 
 <!-- GETTING STARTED -->
 
@@ -67,13 +61,7 @@
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Ensure you have an emulator or a way to run the app, an easy way is to follow the start-up guide for React Native development [here](https://reactnative.dev/docs/environment-setup).
 
 ### Installation
 
@@ -85,20 +73,18 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<!-- CONTACT -->
-
+3. Start the Metro server to host the app
+   ```sh
+   npm start
+   ```
+4. Build and execute the app (ensure you have an android device/emulator that is compatible with React Native, and for best results ensure it is already running at this point.)
+   ```sh
+   npm run android
+   ```
+   
 ## Contact
 
-Adrien Dinzey - adriendinzey@gmail.com - [Website](http://adriendinzey.github.io/)
+Adrien Dinzey - [Website](http://adriendinzey.github.io/)
 
 Project Link: [https://github.com/adriendinzey/Noodle-Restaurant-Mobile-App](https://github.com/adriendinzey/Noodle-Restaurant-Mobile-App)
 
