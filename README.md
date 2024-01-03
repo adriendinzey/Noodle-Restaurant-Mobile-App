@@ -19,7 +19,7 @@
   <p align="center">
     Order your very own custom bowl of noodles at this noodle restaurant using this Android application!
     <br />
-    <a href="https://github.com/adriendinzey/Noodle-Restaurant-Mobile-App"><strong>View Demo Video</strong></a>
+    <a href="https://adriendinzey.github.io/images/NoodleShopAppDemoVideo.mp4"><strong>View Demo Video</strong></a>
     <br />
   </p>
 </p>
